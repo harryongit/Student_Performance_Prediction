@@ -176,13 +176,9 @@ cd Student_Performance_Prediction
 
 **2. Install dependencies:**
 ```bash
-pip install -r requirements.txt
-```
-
-Or manually install the required packages:
-```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
 ```
+
 
 **3. Open the notebook:**
 
